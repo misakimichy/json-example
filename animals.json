@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Coop",
+        "species": "cat",
+        "food": {
+            "likes": ["bonito flakes", "cat grass"],
+            "dislike": ["turkey", "cheese"]
+        }
+    }, 
+    {
+        "name": "Broly",
+        "species": "dog",
+        "food": {
+            "likes": ["carrots", "bones"],
+            "dislike": ["fish"]
+        }
+    },
+    {
+        "name": "Miguel",
+        "species": "hedgehog",
+        "food": {
+            "likes": ["worms", "fruits"],
+            "dislike": ["eggs", "dry food"]
+        }
+    }
+]
