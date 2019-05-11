@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Piroshki",
+        "species": "cat",
+        "food": {
+            "likes": ["mackerel", "cat nip"],
+            "dislike": ["chicken breast", "human"]
+        }
+    }, 
+    {
+        "name": "Joey",
+        "species": "dog",
+        "food": {
+            "likes": ["beef", "toys"],
+            "dislike": ["dry food"]
+        }
+    },
+    {
+        "name": "Garlic Tonko",
+        "species": "pig",
+        "food": {
+            "likes": ["apples", "banana"],
+            "dislike": ["meat", "mushrooms"]
+        }
+    }
+]

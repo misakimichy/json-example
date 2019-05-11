@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Gnocchi",
+        "species": "cat",
+        "food": {
+            "likes": ["fresh food"],
+            "dislike": ["old food"]
+        }
+    }, 
+    {
+        "name": "Kale",
+        "species": "dog",
+        "food": {
+            "likes": ["tomatos", "peas"],
+            "dislike": ["potatos"]
+        }
+    },
+    {
+        "name": "Chicken Rich",
+        "species": "chicken",
+        "food": {
+            "likes": ["corns", "wheat"],
+            "dislike": ["bugs"]
+        }
+    }
+]
